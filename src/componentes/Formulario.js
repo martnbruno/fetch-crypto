@@ -10,7 +10,7 @@ const Boton = styled.input`
   margin-top: 20px;
   font-weight: bold;
   font-family: 'Bebas Neue',cursive;
-  font-size: 30px;
+  font-size: 25px;
   padding: 15px;
   background-color: #66a2fe;
   border: none;
