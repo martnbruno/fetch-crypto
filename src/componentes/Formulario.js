@@ -9,8 +9,8 @@ import axios from "axios";
 const Boton = styled.input`
   margin-top: 20px;
   font-weight: bold;
-  font-size: 20px;
-  padding: 10px;
+  font-size: 24px;
+  padding: 20px;
   background-color: #66a2fe;
   border: none;
   width: 100%;
