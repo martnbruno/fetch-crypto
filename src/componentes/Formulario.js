@@ -9,14 +9,16 @@ import axios from "axios";
 const Boton = styled.input`
   margin-top: 20px;
   font-weight: bold;
-  font-size: 24px;
-  padding: 20px;
+  font-family: 'Bebas Neue',cursive;
+  font-size: 30px;
+  padding: 15px;
   background-color: #66a2fe;
   border: none;
   width: 100%;
   border-radius: 10px;
   color: #fff;
   transition: background-color 0.3s ease;
+  letter-spacing: 2px;
 
   &:hover {
     background-color: #326ac0;
@@ -79,7 +81,7 @@ const Formulario = ({ guardarMoneda, guardarCriptomoneda }) => {
       {error ? <Error mensaje="Todos los campos son obligatorios" /> : null}
       <SelectCripto />
       <SelectMoneda />
-      <Boton type="submit" value="Calcular"></Boton>
+      <Boton type="submit" value="Obtener Cotización"></Boton>
     </form>
   );
 };
