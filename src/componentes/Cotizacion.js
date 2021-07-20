@@ -8,7 +8,6 @@ const ResultadoDiv = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* background-color: #FB7676; */
   text-align: center;
   margin-top: 1rem;
   border-radius: 20px;
