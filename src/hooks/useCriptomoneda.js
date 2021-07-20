@@ -20,6 +20,7 @@ const Select = styled.select`
   border-radius: 10px;
   border: none;
   font-size: 1.2rem;
+  background-color: #fff;
 `;
 
 const useCriptomoneda = (label, stateInicial, listacripto) => {
