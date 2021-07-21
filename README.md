@@ -1,8 +1,8 @@
-# React Weather App
+# Fetch-Crypto
 
 ### 1. Clone this Repo
 
-https://github.com/m-bruno/fetch-crypto.git
+https://github.com/martinbrunodev/fetch-crypto.git
 
 ### 2. Install dependencies
 
